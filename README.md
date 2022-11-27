@@ -1,2 +1,3 @@
-Alchemy scratchpad
+# Alchemy scratchpad
 
+Alchemy University code exerices
