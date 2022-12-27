@@ -1,4 +1,4 @@
-const getAddress = require("../getAddress");
+const getAddress = require("./getAddress");
 const secp = require("ethereum-cryptography/secp256k1");
 const { assert } = require("chai");
 const { toHex } = require("ethereum-cryptography/utils");
